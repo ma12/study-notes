@@ -11,7 +11,7 @@ hero:
       link: /python/1-python基础
     - theme: alt
       text: GitHub 仓库
-      link: https://github.com/你的用户名/study-notes
+      link: https://github.com/ma12/study-notes
 
 features:
   - title: Python 学习

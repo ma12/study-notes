@@ -42,7 +42,7 @@ export default defineConfig({
 
     // 社交链接（改成你自己的）
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/你的用户名' }
+      { icon: 'github', link: 'https://github.com/ma12' }
     ],
 
     // 页脚
