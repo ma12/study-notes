@@ -15,6 +15,8 @@ export default defineConfig({
       { text: "首页", link: "/" },
       { text: "Python", link: "/python/1-python基础" },
       { text: "CTF Pwn", link: "/pwn/栈溢出入门" },
+      { text: "Bug Bounty", link: "/bug-bounty/漏洞赏金入门" },
+      { text: "AI Security", link: "/ai-security/AI安全入门" },
       { text: "专升本数学", link: "/math/高等数学" }
     ],
 
@@ -30,6 +32,18 @@ export default defineConfig({
         text: "CTF Pwn",
         items: [
           { text: "栈溢出入门", link: "/pwn/栈溢出入门" }
+        ]
+      },
+      {
+        text: "Bug Bounty",
+        items: [
+          { text: "漏洞赏金入门", link: "/bug-bounty/漏洞赏金入门" }
+        ]
+      },
+      {
+        text: "AI Security",
+        items: [
+          { text: "AI 安全入门", link: "/ai-security/AI安全入门" }
         ]
       },
       {
